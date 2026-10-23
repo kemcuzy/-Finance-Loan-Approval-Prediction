@@ -1,4 +1,6 @@
-##Loan Approval Analysis and Dashboard
+Loan Approval Analysis and Dashboard
+
+
 
 Every loan approval decision is a balance between risk and opportunity.
 
