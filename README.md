@@ -7,6 +7,7 @@ Every loan approval decision is a balance between risk and opportunity.
 In this project, I analyzed 367 loan applications to uncover what truly drives approval decisions in the financial industry. The result revealed that a single factor dominates more than expected..
 
 1. Introduction
+
 In the financial services industry, loan approval decisions are critical to balancing risk management and profitability. Financial institutions must determine which applicants are likely to repay loans while minimizing defaults.
 
 This project focuses on analyzing a loan approval dataset to uncover the key factors influencing loan approval decisions and to provide data-driven insights that can improve lending strategies.
